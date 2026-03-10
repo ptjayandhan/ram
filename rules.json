@@ -1,0 +1,26 @@
+{
+    "embargoed_countries": [
+        "KP",
+        "IR",
+        "SY",
+        "CU"
+    ],
+    "restricted_goods": [
+        {
+            "hs_prefix": "93",
+            "description": "Arms and ammunitions"
+        },
+        {
+            "hs_prefix": "8421",
+            "description": "Centrifuges and filtering apparatus (Dual-use)"
+        }
+    ],
+    "value_thresholds": {
+        "High": 50000,
+        "Medium": 10000
+    },
+    "quantity_thresholds": {
+        "Medium": 500,
+        "High": 1000
+    }
+}
